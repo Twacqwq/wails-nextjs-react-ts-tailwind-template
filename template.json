@@ -1,0 +1,7 @@
+{
+  "name": "Wails + Next.js + React + TypeScript + TailwindCSS(v3) template",
+  "shortname": "wails-nextjs-react-ts-tailwind-template",
+  "author": "Twacqwq",
+  "description": "A react-ts app built with nextjs and tailwindcss added",
+  "helpurl": "https://github.com/Twacqwq/wails-nextjs-react-ts-tailwind-template"
+}
